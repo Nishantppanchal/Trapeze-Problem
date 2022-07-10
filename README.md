@@ -18,7 +18,7 @@ It would look like:
 2 2 2 _ 1 1 1 where 1 represents a member from family one, 2 represents members from family 2 and _ is an empty Trapeze.
 
 # My solution
-```
+
 Let: 
 * 0 signify the empty swing
 * 1 signify a member of family 1
@@ -47,4 +47,4 @@ its name.
 Eliminate the paths that lead to dead ends as all the possible paths are tested.
 If the node or edge had been tested, color it red.
 After the path that leads from the node with the starting positions as its name to the node with the ending postion as its name is found, color the edges and node along it green.
-```
+
