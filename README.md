@@ -2,7 +2,7 @@
 A algorithmic solution to a problem with Python. The problem is called the Trapeze problem. The solution involves the use of graph theory.
 
  Libraries used:
- * Pynode
+ * [Pynode](https://alexsocha.github.io/pynode/)
  
 # Trapeze Problem
 There are 7 trapezes in a row. There are two families each with three member. All of the members of both family has on exactly one of the trapezes at any given time. Initally all the members of one family are on one side and the other family are on the other with a empty trapeze in the middle.
